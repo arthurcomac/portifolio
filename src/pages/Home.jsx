@@ -8,7 +8,8 @@ export function Home () {
           Olá!
         </h1>
         <h2 className='text-3xl font-semibold'>
-          Meu nome é Arthur Machado, e sou frontend developer!<br/>
+          Meu nome é Arthur Machado<br/>
+          e sou frontend developer!<br/>
           Bem vindo ao meu perfil!
         </h2>
       </div>
